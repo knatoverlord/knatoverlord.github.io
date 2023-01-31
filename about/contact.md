@@ -1,9 +1,9 @@
 alist + raidrive + emby
 
-[Home | AList文档 (nn.ci)](https://alist.nn.ci/zh/)
+[alist]https://alist.nn.ci/zh/
 
-[www.raidrive.com](https://www.raidrive.com/)
+[raidrive](https://www.raidrive.com/)
 
-[emby.media](https://emby.media/)
+[emby](https://emby.media/)
 
 Fileyee
