@@ -7,3 +7,4 @@ alist + raidrive + emby
 [emby](https://emby.media/)
 
 Fileyee
+[GoodSync](https://www.goodsync.com/cn)
