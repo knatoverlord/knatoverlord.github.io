@@ -1,6 +1,6 @@
 alist + raidrive + emby
 
-[alist]https://alist.nn.ci/zh/
+[alist](https://alist.nn.ci/zh/)
 
 [raidrive](https://www.raidrive.com/)
 
