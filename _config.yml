@@ -1,7 +1,8 @@
 title: SundayPlay's Blog
-author:
-  name: sundayplay
-  email: 519756450@qq.com
+author: sundayplay
+  # name: sundayplay
+  # email: 519756450@qq.com
+email: 519756450@qq.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
