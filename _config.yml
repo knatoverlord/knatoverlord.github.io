@@ -1,8 +1,10 @@
 title: SundayPlay's Blog
-author: sundayplay
-  # name: sundayplay
-  # email: 519756450@qq.com
-email: 519756450@qq.com
+# author: sundayplay
+# email: 519756450@qq.com
+author:
+  name: sundayplay
+  email: 519756450@qq.com
+
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -48,8 +50,8 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-header_pages:
-  - about.md
+# header_pages:
+#   - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #
