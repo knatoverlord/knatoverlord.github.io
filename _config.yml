@@ -52,7 +52,7 @@ minima:
 # order as they should show up.
 #
 header_pages:
-  - about.md
+  # - about.md
   - oracle/oracle_index.md
 
 # Set to `true` to show excerpts on the homepage.
