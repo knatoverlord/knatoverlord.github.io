@@ -1,4 +1,9 @@
-source: site
+source: /site
+
 theme: jekyll-theme-minimal
+# 标题
 title: Sundayplay's homepage
+# 描述
 description: Bookmark this to keep an eye on my project updates!
+# 时区
+timezone: Asia/Shanghai
