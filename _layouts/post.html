@@ -8,7 +8,6 @@ layout: default
 
 {{content}}
 
-<div>{{page.tags}}</div>
-{% if page.tags %}
+{% if page.tags and page.tags.size > 0 %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
