@@ -9,3 +9,6 @@ description: Bookmark this to keep an eye on my project updates!
 timezone: Asia/Shanghai
 # markdown格式
 markdown: GFM
+google_analytics:
+show_downloads: true
+logo: /assets/img/logo.png
