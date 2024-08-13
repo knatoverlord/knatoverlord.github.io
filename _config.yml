@@ -7,3 +7,5 @@ title: Sundayplay's homepage
 description: Bookmark this to keep an eye on my project updates!
 # 时区
 timezone: Asia/Shanghai
+# markdown格式
+markdown: GFM
