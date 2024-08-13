@@ -13,5 +13,5 @@ google_analytics:
 show_downloads: true
 logo: /assets/img/logo.png
 github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+  zip_url: http://example.com/downloadzip.zip
+  tar_url: http://example.com/downloadtar.zip
