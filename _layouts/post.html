@@ -13,5 +13,9 @@ tags:{{page.tags}}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-  <small>tags: <em>{{ page.tags}}</em></small>
+  tags: <em>{{page.tags}}</em>
+  tags: <em>{{ page.tags }}</em>
+  tags: <em>{{ page.tags | join: "</em> - <em>" }}</em>
+  <br>
+  tags:{{page.tags}}
 {% endif %}
