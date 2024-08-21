@@ -20,6 +20,7 @@ session.defaultSession.setDisplayMediaRequestHandler((request, callback) => {
 
 ### 2、录制视频时候会录制到整个屏幕
 
-- [ ] 可以选择录制区域
-- [ ] 可以选择录制窗体
+~~可以选择录制区域~~
 
+~~可以选择录制窗体~~
+- [ ] 录制整个屏幕时通过快捷键来开始录制
